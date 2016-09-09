@@ -24,7 +24,7 @@ Como consequência (e ao mesmo tempo causa) disso, entender como as coisas e o m
 
  Acreditamos que quanto maior o nosso acesso a informação, quanto mais facilitado e livre ele é, mais facilmente poderemos modelar a realidade que nos cerca. Dessa maneira, podemos maximizar os benefícios da comunidade para seus participantes e sociedade.  
 
- Também acreditamos que os projetos desenvolvidos pela comunidade deverão ser baseados na filosofia de Software Livre, prioritariamente na Licença GNU - GPL. Essa escolha não é motivada apenas por questões éticas, mas também técnicas. A filosofia do software livre garante um processo transparente e autodepurador de erros. Robert Merton, por exemplo, sugere que  essa autodepuração de erros é uma das bases para ética científica, e foi tal base que permitiu  a ciência moderna chegar tão longe em tão pouco tempo.
+ Também acreditamos que os projetos desenvolvidos pela comunidade deverão ser baseados na filosofia de Software Livre, prioritariamente na Licença GNU - GPL. Para facilitar a colaboração tais projetos devem ser adicionados a Lista de projetos apoiados pela comunidade, [https://github.com/PythonTriangulo/projetos](https://github.com/PythonTriangulo/projetos) Essa escolha não é motivada apenas por questões éticas, mas também técnicas. A filosofia do software livre garante um processo transparente e autodepurador de erros. Robert Merton, por exemplo, sugere que  essa autodepuração de erros é uma das bases para ética científica, e foi tal base que permitiu  a ciência moderna chegar tão longe em tão pouco tempo.
 
 4. **Objetivar a descentralização**
 	
